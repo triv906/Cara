@@ -65,3 +65,6 @@ body {
     margin-top: -16px;
   }
 }
+#header {
+  background-color: rgb(114, 114, 178) !important;
+}
